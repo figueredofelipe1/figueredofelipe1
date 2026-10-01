@@ -62,12 +62,6 @@ Profissional de Tecnologia da Informação conectando **negócio, tecnologia, es
   <img src="https://raw.githubusercontent.com/figueredofelipe1/figueredofelipe1/output/top-langs.svg" alt="Linguagens mais usadas (inclui repositórios privados)" height="185" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/figueredofelipe1/figueredofelipe1/output/activity-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/figueredofelipe1/figueredofelipe1/output/activity-graph.svg" />
-  <img src="https://raw.githubusercontent.com/figueredofelipe1/figueredofelipe1/output/activity-graph.svg" alt="Gráfico de atividade no GitHub nos últimos 31 dias" width="100%" />
-</picture>
-
 </div>
 
 ---
