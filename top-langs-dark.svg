@@ -99,10 +99,10 @@
           y="0.5"
           rx="8"
           height="99%"
-          stroke="#e4e2e2"
+          stroke="#1A5AF0"
           width="299"
           fill="#0B1B33"
-          stroke-opacity="0"
+          stroke-opacity="1"
         />
 
         
